@@ -9,4 +9,5 @@ while(1){
   } else if(num%7==0){
     document.write("Buzz");
   }
+  num++;
 }
