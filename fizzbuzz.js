@@ -2,12 +2,12 @@ var num = 1;
 while(1){
   if(num%3==0){
     if(num%7==0){
-      document.write("FizzBuzz!");
+      document.write(num + "is FizzBuzz!");
     } else {
-      document.write("Fizz");
+      document.write(num + "is Fizz");
     }
   } else if(num%7==0){
-    document.write("Buzz");
+    document.write(num + "is Buzz");
   }
   num++;
 }
