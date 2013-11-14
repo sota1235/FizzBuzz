@@ -2,12 +2,10 @@
 $i = 1;
 while(true){
   if($i % 3 == 0 && $i % 7 == 0){
-    echo $i." is FizzBuzz!\n";
+    echo "FizzBuzz!<br />";
   } else {
-  $str = ($i % 3) == 0 ? $i." is Fizz\n" : ( $str2 = ($i % 7) == 0 ? $i." is Buzz\n" : "" );
-  echo $str;
+    echo $str = ($i % 3) == 0 ? "Fizz<br />" : ( $str2 = ($i % 7) == 0 ? "Buzz<br />" : $i."<br />" );
   }
-  $i++;
-  if($i == 100) break;
+  if($i++ == 100) break;
 }
 ?>
