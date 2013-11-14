@@ -1,3 +1,3 @@
-###FizzBuzz
+# FizzBuzz
 
-* FizzBuzz programm written by some programming langauge.
+* FizzBuzz programm written by some programming languge.
