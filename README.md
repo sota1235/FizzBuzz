@@ -24,6 +24,8 @@
 
 * JavaScript
 
+* CoffeeScript
+
 * Python (Version 2.7)
 
 * PHP
