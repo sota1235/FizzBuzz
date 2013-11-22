@@ -13,3 +13,19 @@
 * Aside from these -> output number
 
 * A scope is 1 to 100.
+
+## Handicaps
+
+* Programm in one line.
+
+* Programm without using "%".
+
+## Languges
+
+* JavaScript
+
+* Python (Version 2.7)
+
+* PHP
+
+* C
