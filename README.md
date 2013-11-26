@@ -20,6 +20,8 @@
 
 * Programm without using "%".
 
+* Inverse FizzBuzz (request from yagihashoo)
+
 ## Languges
 
 * JavaScript
