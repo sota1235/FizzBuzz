@@ -2,7 +2,7 @@
 
 * FizzBuzz programm written by some programming languges.
 
-## Rule
+## Rules
 
 * When number is multiple of 3 -> Fizz
 
@@ -21,6 +21,8 @@
 * Programm without using "%".
 
 * Inverse FizzBuzz (request from yagihashoo)
+
+* (Look for new rule!!)
 
 ## Languges
 
