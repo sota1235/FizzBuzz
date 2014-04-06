@@ -8,8 +8,8 @@
 import sys
 
 # fizz,buzz列
-list1 = {'Fizz','Fizz','Buzz','Fizz','Fizz','Buzz','Fizz','Fizz','FizzBuzz'}
-list2 = {'FizzBuzz','Fizz','Fizz','Buzz','Fizz','Fizz','Buzz','Fizz','Fizz'}
+list1 = {3:'Fizz',6:'Fizz',7:'Buzz',9:'Fizz',12:'Fizz',14:'Buzz',15:'Fizz',18:'Fizz',21'FizzBuzz'}
+list2 = {21:'FizzBuzz',24:'Fizz',27:'Fizz',28:'Buzz',30:'Fizz',33:'Fizz',35:'Buzz',36:'Fizz',39:'Fizz'}
 
 argvs = sys.argv
 argc = len(argvs)
