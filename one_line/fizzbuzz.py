@@ -1,1 +1,1 @@
-for i in range(100): print "FizzBuzz" if ((i+1)%3==0 and (i+1)%7==0) else ("Fizz" if (i+1)%3==0 else ("Buzz" if (i+1)%7==0 else i+1))
+for i in range(1,101): print "FizzBuzz" if (i%3==0 and i%7==0) else ("Fizz" if i%3==0 else ("Buzz" if i%7==0 else i))
